@@ -25,11 +25,11 @@ SpeechDataset.py generate_data()函数得到  (B, 1600, 200, 1)  (B, 64) 的数�
 
 # 特征提取
 提取wav的语谱图特征 (eg. A2_33.wav)
-![image](image/spectrogram.png)
+![image](https://github.com/Mitomzhou/ASRT_SR_tensorflow2.0/tree/master/image/spectrogram.png)
 
 
 # 深度架构
-![image](image/frame.png)
+![image](https://github.com/Mitomzhou/ASRT_SR_tensorflow2.0/tree/master/image/frame.png)
 
 
 # 训练声学模型
